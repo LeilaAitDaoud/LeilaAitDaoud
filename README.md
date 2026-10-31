@@ -1,7 +1,7 @@
 # `printf("Hello, World ! I'm Leïla ♡");`
 
 🎓 **CS Student (L2/2nd Year) at Université Paris Cité** | Passionate about software development, systems, and robotics 𓆰
-
+<br>
 ☆ "Like what you do, and then you will do your best." — Katherine Johnson ☆
 __________________________________
 
@@ -24,5 +24,5 @@ __________________________________
 __________________________________
 
 ### ღ Connect with Me
-↬ **LinkedIn:** AIT DAOUD Leïla (https://www.linkedin.com/in/le%C3%AFla-ait-daoud-bb5a5b363/)
+↬ **LinkedIn:** [Leïla AIT DAOUD](https://www.linkedin.com/in/le%C3%AFla-ait-daoud-bb5a5b363/)
 ↬ **Email:** leilaaitdaoud@hotmail.com
