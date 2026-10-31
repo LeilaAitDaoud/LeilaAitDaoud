@@ -1,8 +1,8 @@
 # `printf("Hello, World ! I'm Leïla ♡");`
 
-🎓 **CS Student (L2/2nd Year) at Université Paris Cité** | Passionate about software development, systems, and robotics 𓆰
+🎓 **CS Student (L2/2nd Year) at Université Paris Cité** > Passionate about software development, systems, and robotics 𓆰
 <br>
-☆ "Like what you do, and then you will do your best." — Katherine Johnson ☆
+☆ "Like what you do, and then you will do your best." ~ Katherine Johnson ☆
 __________________________________
 
 ### ღ What Drives Me
