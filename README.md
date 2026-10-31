@@ -1,6 +1,6 @@
 # `printf("Hello, World ! I'm Leïla ♡");`
 
-🎓 **CS Student (L2/2nd Year) at Université Paris Cité** > Passionate about software development, systems, and robotics 𓆰
+🎓 **CS French Student (L2/2nd Year) at Université Paris Cité** > Passionate about software development, systems, and robotics 𓆰
 <br>
 ☆ "Like what you do, and then you will do your best." ~ Katherine Johnson ☆
 __________________________________
@@ -19,10 +19,10 @@ __________________________________
 __________________________________
 
 ### ღ Current Focus
-↬ Looking for a **Software / Systems Internship**<br>
+↬ Looking for any **Software / Systems Internship** (open to any technical subject and eager to learn !).<br>
 ↬ Building personal projects & learning low-level programming.<br>
 __________________________________
 
-### ღ Connect with Me
+### ღ Ping me
 ↬ **LinkedIn:** [Leïla AIT DAOUD](https://www.linkedin.com/in/le%C3%AFla-ait-daoud-bb5a5b363/)
 ↬ **Email:** leilaaitdaoud@hotmail.com
