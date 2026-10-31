@@ -1,4 +1,4 @@
-# `printf("Hello World, I'm Leïla ♡\n");`
+# `printf("Hello World, I'm Leïla ♡");`
 
 🎓 **CS Student (L2/2nd Year) at Université Paris Cité** | Passionate about software development, systems, and robotics 𓆰
 
