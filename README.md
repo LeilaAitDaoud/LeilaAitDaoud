@@ -7,7 +7,7 @@ __________________________________________________________
 
 - I currently have experience with Java, HTML, and CSS
 - I am gradually learning new languages and tools like Pyton and CC+ (because I would love to explore robotics 👀)
-- I am curious about artificial intelligence and cybersecurity
+- I am curious about artificial intelligence
 - I build projects that match my current level and hope to take on more ambitious ones as I progress ! :D
 
 I have not chosen a specific field of specialization yet, and that is part of what I enjoy about computer science: there is always something new to discover, understand, and create. ^_^
